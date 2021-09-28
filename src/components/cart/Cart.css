@@ -1,0 +1,12 @@
+.cart-info-container{
+    margin:0 20px;
+    line-height: 0;
+}
+.cart-info{
+    display: flex;
+    justify-content: space-between;
+}
+.order{
+    font-size: 20px;
+    color: darkred;
+}
